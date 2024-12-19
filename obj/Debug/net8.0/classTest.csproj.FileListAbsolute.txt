@@ -1,0 +1,14 @@
+/Users/meline/Desktop/info/C#/classTest/bin/Debug/net8.0/classTest
+/Users/meline/Desktop/info/C#/classTest/bin/Debug/net8.0/classTest.deps.json
+/Users/meline/Desktop/info/C#/classTest/bin/Debug/net8.0/classTest.runtimeconfig.json
+/Users/meline/Desktop/info/C#/classTest/bin/Debug/net8.0/classTest.dll
+/Users/meline/Desktop/info/C#/classTest/bin/Debug/net8.0/classTest.pdb
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.AssemblyInfoInputs.cache
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.AssemblyInfo.cs
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.csproj.CoreCompileInputs.cache
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.dll
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/refint/classTest.dll
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.pdb
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.genruntimeconfig.cache
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/ref/classTest.dll
