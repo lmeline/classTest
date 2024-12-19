@@ -16,11 +16,14 @@ public string? Nom { get; set; }
 public string? Prenom { get; set; }
 public string? Email { get; set; }
 public string? MotDePasse { get; set; }
+private string mdp;
+public string Mdp {get{return mdp;}set{mdp= value; }}
 
 // reviens au même, mais plus complexe 
     // private string email;
     // public string Email { get { return email;} set { email = value; } }
 
+// créer un constructeur 
     public Utilisateur(string nom, string prenom, string email, string motDePasse) {
         Nom = nom;
         Prenom = prenom;
@@ -29,7 +32,11 @@ public string? MotDePasse { get; set; }
         
     }
 
+
 }
 
 
+class verifMdp {
+
+}
 
