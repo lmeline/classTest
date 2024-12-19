@@ -12,3 +12,4 @@
 /Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.pdb
 /Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.genruntimeconfig.cache
 /Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/ref/classTest.dll
+/Users/meline/Desktop/info/C#/classTest/obj/Debug/net8.0/classTest.sourcelink.json
